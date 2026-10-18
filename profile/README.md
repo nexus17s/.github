@@ -6,7 +6,7 @@
     width="120"
   />
 
-  <h1>NEXUS</h1>
+  <h1>NEXUS.TECH</h1>
 
   <p><strong>Connect Ideas. Build Intelligence. Grow Together.</strong></p>
 
