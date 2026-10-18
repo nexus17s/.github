@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-   src="https://raw.githubusercontent.com/Hash-Error/.github/main/profile/download.jpg"
+   src="https://github.com/organizations/nexus17s/settings/profile"
     alt="Nexus Lotus Logo"
     width="120"
   />
