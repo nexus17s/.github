@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-   https://github.com/organizations/nexus17s/settings/profile"
+   [https://github.com/organizations/nexus17s/settings/profile](https://avatars.githubusercontent.com/u/341876120?s=200&v=4)"
     alt="Nexus Lotus Logo"
     width="120"
   />
