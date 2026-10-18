@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-    src="https://github.com/nexus17s/.github/blob/main/profile/WhatsApp%20Image%202026-10-18%20at%2012.30.37%20AM.jpeg"
+    src="https://avatars.githubusercontent.com/u/341876120?s=400&u=c3c11f0cc00a27d5c0c19027abd211a8cfb1b0f2&v=4"
     alt="Nexus Lotus Logo"
     width="120"
   />
